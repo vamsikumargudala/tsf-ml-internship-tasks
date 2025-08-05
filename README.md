@@ -1,9 +1,25 @@
-Task as a part of internship at THE SPARKS FOUNDATION (TSF) under Graduate Rotational Internship Program (GRIP) March 2021.
+# TSF Machine Learning Internship Tasks
 
-Task #1: Predict the percentage of a student based on the no. of study hours using Linear Regression.
+This repository contains tasks completed as part of THE SPARKS FOUNDATION (TSF) Graduate Rotational Internship Program (GRIP) in March 2021.
 
-Task #2: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually
+## Contents
 
-Dataset Link: http://bit.ly/w-data
+### 1. Student Scores Prediction
+- **Notebook:** `student-score-prediction-linear-regression.ipynb`
+- **Task:** Predicts student percentage based on hours studied using Supervised ML (Linear Regression).
 
-Email: vamsikumar196@gmail.com
+### 2. Iris Clustering
+- **Notebook:** `iris-clustering-kmeans.ipynb`
+- **Task:** Uses Unsupervised ML (KMeans Clustering) to find optimal clusters in the Iris dataset and represent them visually.
+
+**Dataset:**  
+[Student Scores](http://bit.ly/w-data) (used in Task 1)  
+[Iris](https://archive.ics.uci.edu/ml/datasets/iris) (commonly used, mention source if included)
+
+---
+
+## How to Run
+1. Clone the repo.
+2. Open notebooks in Jupyter.
+3. Run all cells. See inline comments for details.
+
